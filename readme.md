@@ -9,7 +9,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** :  Leap  to Fortune
 
-**Web:**   (url github.io)
+**Web:**   https://albaruiz9.github.io/
 
 **Autor:**  (Alba Ruiz Caballero)
 
